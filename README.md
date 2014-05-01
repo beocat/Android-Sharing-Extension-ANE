@@ -1,5 +1,15 @@
 Android-Sharing-Extension-ANE
 =============================
+
+Warning! This is not procudtion ready right now. If you want to use it for twitter sharing on android, you are welcome to contact me.
+
+Share on twitter
+------------------
+Based on illuzors great ane for sharing on android, I have set out to make it possible to limit the apps to use for sharing.
+Right now it forces to use one, if any of the installed twitter clients. This only works for textsharing.
+
+Original text from https://github.com/illuzor/Android-Sharing-Extension-ANE
+--------
 Native Extension for Adobe AIR
 
 Features:
